@@ -542,6 +542,7 @@ Blockly.Blocks.defaultToolbox = '<xml id="toolbox-categories" style="display: no
     '</block>' +
     '<block type="extension_music_reporter" id="extension_music_reporter"></block>' +
     '<block type="extension_microbit_display" id="extension_microbit_display">' +
+    '<block type="extension_picoboard_display" id="extension_picoboard_display">' +
       '<value name="MATRIX">' +
         '<shadow type="matrix">' +
           '<field name="MATRIX">0101010101100010101000100</field>' +
