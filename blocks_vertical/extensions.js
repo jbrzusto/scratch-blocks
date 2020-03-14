@@ -233,7 +233,7 @@ Blockly.Blocks['extension_music_reporter'] = {
   }
 };
 
-Blockly.Blocks['extension_microbit_display'] = {
+Blockly.Blocks['extension_microbit'] = {
   /**
    * @this Blockly.Block
    */
@@ -261,7 +261,7 @@ Blockly.Blocks['extension_microbit_display'] = {
   }
 };
 
-Blockly.Blocks['extension_picoboard_display'] = {
+Blockly.Blocks['extension_picoboard'] = {
   /**
    * @this Blockly.Block
    */
